@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wendell's Legal Resource Matrix - Child Support & Court Fraud Defense</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="matrix-rain"></canvas>
+    
+    <div class="terminal-container">
+        <div class="terminal-header">
+            <div class="terminal-buttons">
+                <span class="btn red"></span>
+                <span class="btn yellow"></span>
+                <span class="btn green"></span>
+            </div>
+            <div class="terminal-title">root@wendell-legal:~$</div>
+        </div>
+        
+        <nav class="terminal-nav">
+            <ul>
+                <li><a href="#home" class="nav-link active">HOME</a></li>
+                <li><a href="#testimony" class="nav-link">TESTIMONY</a></li>
+                <li><a href="#documents" class="nav-link">DOCUMENTS</a></li>
+                <li><a href="#membership" class="nav-link">MEMBERSHIP</a></li>
+                <li><a href="#contact" class="nav-link">CONTACT</a></li>
+            </ul>
+        </nav>
+
+        <main class="terminal-content">
+            <section id="home" class="section active">
+                <div class="glitch-text">
+                    <h1 class="main-title">WENDELL'S LEGAL MATRIX</h1>
+                </div>
+                <div class="typing-text">
+                    <p>Fighting Child Support Injustice & Court Fraud Since [Year]</p>
+                </div>
+                <div class="mission-box">
+                    <h2 class="section-title">// MISSION_BRIEFING</h2>
+                    <p class="terminal-text">
+                        I'm not a lawyer. I'm a father who fought the system and won. 
+                        This site contains my personal research, experiences, and document templates 
+                        that helped me navigate child support cases and expose court fraud.
+                    </p>
+                    <div class="warning-box">
+                        <p class="warning-text">⚠ LEGAL DISCLAIMER: This is not legal advice. These are my personal opinions and research. Consult a licensed attorney for legal matters.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="testimony" class="section">
+                <h2 class="section-title">// PERSONAL_TESTIMONY</h2>
+                <div class="testimony-content">
+                    <div class="chapter-preview">
+                        <h3>25-Chapter Book: My Fight Against Child Support Injustice</h3>
+                        <p>Coming soon: The complete story of how I fought back against a broken system and helped others do the same.</p>
+                        <div class="chapter-list">
+                            <div class="chapter-item">Chapter 1: The System That Failed</div>
+                            <div class="chapter-item">Chapter 2: Understanding Child Support Laws</div>
+                            <div class="chapter-item">Chapter 3: First Court Appearance</div>
+                            <div class="chapter-item">Chapter 4: Document Everything</div>
+                            <div class="chapter-item">Chapter 5: Fighting Fraud on the Court</div>
+                            <!-- More chapters will be added -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="documents" class="section">
+                <h2 class="section-title">// LEGAL_DOCUMENTS</h2>
+                <div class="documents-grid">
+                    <div class="doc-category">
+                        <h3>Child Support Motions</h3>
+                        <ul class="doc-list">
+                            <li class="locked-doc">
+                                <span class="doc-name">Motion to Modify Child Support</span>
+                                <span class="lock-icon">🔒</span>
+                            </li>
+                            <li class="locked-doc">
+                                <span class="doc-name">Motion for Contempt Dismissal</span>
+                                <span class="lock-icon">🔒</span>
+                            </li>
+                            <li class="locked-doc">
+                                <span class="doc-name">Income Verification Request</span>
+                                <span class="lock-icon">🔒</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="doc-category">
+                        <h3>Fraud on the Court</h3>
+                        <ul class="doc-list">
+                            <li class="locked-doc">
+                                <span class="doc-name">Fraud on the Court Complaint</span>
+                                <span class="lock-icon">🔒</span>
+                            </li>
+                            <li class="locked-doc">
+                                <span class="doc-name">Judicial Misconduct Report</span>
+                                <span class="lock-icon">🔒</span>
+                            </li>
+                            <li class="locked-doc">
+                                <span class="doc-name">Evidence of Fraud Motion</span>
+                                <span class="lock-icon">🔒</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="upgrade-prompt">
+                    <p>🔒 Premium members get access to all document templates</p>
+                    <button class="matrix-btn" onclick="showMembership()">Unlock Documents</button>
+                </div>
+            </section>
+
+            <section id="membership" class="section">
+                <h2 class="section-title">// MEMBERSHIP_ACCESS</h2>
+                <div class="membership-tiers">
+                    <div class="tier basic">
+                        <h3>FREE ACCESS</h3>
+                        <div class="price">$0</div>
+                        <ul class="features">
+                            <li>✓ Read testimony</li>
+                            <li>✓ Basic legal information</li>
+                            <li>✓ Contact form access</li>
+                            <li>✗ Document downloads</li>
+                        </ul>
+                    </div>
+                    <div class="tier premium">
+                        <h3>PREMIUM MEMBER</h3>
+                        <div class="price">$3.99<span>/month</span></div>
+                        <ul class="features">
+                            <li>✓ All free features</li>
+                            <li>✓ All document templates</li>
+                            <li>✓ Downloadable PDFs</li>
+                            <li>✓ Priority contact</li>
+                            <li>✓ New content updates</li>
+                        </ul>
+                        <div id="paypal-button-container"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="contact" class="section">
+                <h2 class="section-title">// CONTACT_MATRIX</h2>
+                <div class="contact-form">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <label for="name">NAME:</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">EMAIL:</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">MESSAGE:</label>
+                            <textarea id="message" name="message" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="matrix-btn">SEND_MESSAGE</button>
+                    </form>
+                </div>
+            </section>
+        </main>
+
+        <div class="terminal-footer">
+            <div class="status-line">
+                <span id="status">SYSTEM_READY</span>
+                <span id="member-status">VISITOR_MODE</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://www.paypal.com/sdk/js?client-id=YOUR_PAYPAL_CLIENT_ID&vault=true&intent=subscription"></script>
+    <script src="script.js"></script>
+</body>
+</html>
