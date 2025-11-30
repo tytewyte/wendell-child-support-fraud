@@ -1,0 +1,402 @@
+FIGHTING DCFS: THE FRAUD SYSTEM
+By Charles Wendell Avant Jr.
+
+===================================================================
+
+PART 4: BUILDING YOUR CASE
+
+Chapter 14: Finding the Fraud
+What to Look For
+
+Fraud doesn't always announce itself with flashing lights. Sometimes it hides in plain sight, buried in paperwork, disguised as "official" records. The key is to look for contradictions, inconsistencies, and impossibilities.
+
+In my case, the fraud revealed itself through the audits. Five different versions of the same "official" record, each one claiming to be the truth, each one contradicting the others. That was the red flag.
+
+---
+
+Red Flags
+
+Here's what to look for:
+
+• Dates that don't make sense: Obligations listed before children were even born.
+
+• Amounts that change without explanation: $30,000 in one audit, $28,000 in another.
+
+• Multiple "official" versions: Five audits, none matching, all supposedly pulled from the same database.
+
+• Affidavits without proof: Handwritten numbers, no receipts, no supporting documentation.
+
+• Impossible timelines: Arrears accumulating during years when the case was closed.
+
+• Dismissed amounts reappearing: Arrears that were legally dismissed showing up again years later.
+
+These aren't minor discrepancies. These are red flags that scream fraud.
+
+---
+
+Contradictions
+
+Jess saved every audit Kimberly Spears sent. Each email, each highlighted instruction, each contradictory calculation. Together, they told a story: the state didn't have real records. They were fabricating numbers, hoping we would accept whatever they sent.
+
+Five audits meant five different stories. And five different stories meant there was no truth—only lies, stacked on top of lies.
+
+How to Spot Contradictions
+
+Here's what I learned: Contradictions are everywhere if you know where to look.
+
+Compare dates. If one audit says your obligation started in 1992 and another says 2005, one of them is lying. Don't let them explain it away. Document both. Present both. Force them to choose which one is true.
+
+Compare amounts. If you allegedly owe $30,000 in one audit and $28,000 in another, that's not a rounding error. That's a $2,000 discrepancy. Where did it go? Why did it change? They won't have an answer. That's the point.
+
+Compare affidavits. If the same person swears under oath to two different amounts at two different times, one of those statements is perjury. Louisiana Revised Statute 14:123 makes it a crime to give false testimony under oath. Point that out. Cite the statute. Ask why they're not prosecuting.
+
+Compare timelines. If the case was closed from 2007 to 2013, how did arrears accumulate during those years? If $10,150 was dismissed in 2010, how is it showing up in the 2013 affidavit? Timelines don't lie. People do.
+
+The state is counting on you not to notice. They're counting on you to accept the most recent version and forget about the previous ones.
+
+Don't forget. Keep every version. Compare them. Document the contradictions.
+
+That's how you prove fraud.
+
+---
+
+Documentation Gaps
+
+The affidavit Charlotte submitted was another glaring example. Scribbled numbers, no receipts, no explanation. Seven years earlier, she swore under oath I owed $5,600. Now it was $32,000. No accounting for the jump. No evidence to support it. Just her word.
+
+Fraud thrives in gaps. When there's no documentation, no receipts, no verification, the system fills the void with assumptions—and those assumptions become debts.
+
+In child support cases, the state relies heavily on affidavits—sworn statements from the custodial parent claiming you owe money. But here's the problem: affidavits are hearsay. They're not proof. They're just someone's word.
+
+And when that word changes by 471% over six years, with no explanation, that's not credible testimony. That's fraud.
+
+Look for the gaps. Look for the missing receipts. Look for the lack of documentation. Those gaps are where fraud lives.
+
+---
+
+The Impossibility Test
+
+Some fraud is obvious because it's mathematically impossible.
+
+The 1992 start date in my first audit? Impossible. My oldest child wasn't born until 1997. The court order wasn't entered until 2005. There is no universe in which I had child support obligations in 1992.
+
+That's not a mistake. That's not a typo. That's fabrication.
+
+When you see something that's impossible, don't second-guess yourself. Don't think, "Maybe I'm missing something." Trust the math. Trust the facts. Trust the impossibility.
+
+Here's how to apply the impossibility test:
+
+1. Check the dates against birth records. You can't owe child support before your children were born. If the audit shows obligations before birth dates, it's fraudulent.
+
+2. Check the dates against court orders. You can't owe child support before the court order was entered. If the audit shows obligations before the order date, it's fabricated.
+
+3. Check the math. If you owed $400/month for 8 years and paid nothing, the maximum possible arrears is $38,400. If they claim you owe $50,000, the math doesn't work. That's fraud.
+
+4. Check the timeline against case closures. If the case was closed for five years, arrears can't accumulate during that time. If they claim you owe money for years when the case was closed, that's fabrication.
+
+5. Check dismissed amounts. If arrears were legally dismissed in a prior proceeding, they can't reappear in a later claim. That violates res judicata. That's fraud.
+
+The impossibility test is your most powerful weapon because it's objective. You're not arguing about what's "fair." You're proving what's mathematically, legally, factually impossible.
+
+And impossibility is fraud.
+
+---
+
+My Discoveries
+
+Here's what I found in my case:
+
+• Fraudulent audits sent directly from a state caseworker's email. Five different versions, all claiming to be official, none matching.
+
+• A 1992 start date—eight years before the court order was even entered. Mathematically impossible.
+
+• Contradictory affidavits adjudicated without proof. Charlotte claimed $5,600 in 2006 and $32,000 in 2013. Both sworn under oath. One has to be perjury.
+
+• Dismissed arrears re-claimed years later, in violation of res judicata. $10,150 dismissed with Charlotte's consent, then included in her 2013 affidavit.
+
+• The State's own admission that they had no records from 2008-2013. April Tate, the CSE Manager, admitted in writing that they had no enforcement records for five years.
+
+Fraud wasn't just a mistake. It was a pattern. And once we had the evidence, we could prove it.
+
+---
+
+What to Do When You Find Fraud
+
+When you discover fraud in your case, here's what to do:
+
+1. Don't panic. Fraud is actually good for your case. It gives you grounds to challenge the judgment.
+
+2. Document everything. Save every version of every document. Print every email. Keep every audit.
+
+3. Organize the evidence. Create comparison charts. Build timelines. Make the fraud obvious.
+
+4. Cite the law. Look up your state's perjury statute. Research res judicata. Find cases where courts vacated judgments based on fraud.
+
+5. File a motion. Don't just complain about the fraud. Use it as the legal basis for your motion to vacate the judgment.
+
+Fraud is your weapon. Use it.
+
+===================================================================
+
+Chapter 15: Documenting Everything
+Why Documentation Matters
+
+In a broken system, documentation is your shield and your sword. Without it, you're defenseless. With it, you can expose lies, prove contradictions, and build a case that even the most biased hearing officer can't ignore.
+
+Documentation turns suspicion into evidence. It transforms "I think" into "I can prove."
+
+Most people lose in family court because they argue from memory. "I remember paying." "She said this." "They told me that."
+
+Memory isn't evidence. Documentation is.
+
+When you walk into court with a binder full of organized evidence—audits, emails, affidavits, timelines—you're not asking the judge to believe you. You're showing the judge proof.
+
+That's the difference between losing and winning.
+
+---
+
+What to Document
+
+Document everything. I mean everything.
+
+• Every audit: Save each version, no matter how small the change. If they send you five audits, keep all five. Don't throw away the "wrong" ones. They're evidence of fraud.
+
+• Every email: Keep the correspondence, especially when officials contradict themselves. Print them. Date them. File them.
+
+• Every affidavit: Highlight inconsistencies, note the dates, compare sworn statements. If the same person swears to different amounts at different times, that's perjury.
+
+• Every hearing: Record what was said, what was ignored, and how decisions were made. If recording isn't allowed, take detailed notes immediately after.
+
+• Every payment: Keep proof of every payment you made. Bank statements, pay stubs showing garnishments, receipts. If they claim you didn't pay, you need proof that you did.
+
+• Every phone call: After every call with DCFS or CSE, send a follow-up email summarizing what was discussed. "Per our conversation today, you stated that..." This creates a written record.
+
+• Every letter: Keep every piece of mail they send you. Even the form letters. Even the notices. Everything.
+
+If it's related to your case, document it. If you're not sure if it's related, document it anyway.
+
+You can always decide later that you don't need it. But you can't go back in time and recover something you threw away.
+
+---
+
+How to Organize
+
+Jess didn't just save the audits—she organized them. Each audit was labeled, dated, and stored. Each email was printed and filed. Each contradiction was highlighted. When we sat down to prepare, we weren't scrambling through piles of paper. We had a binder, a timeline, a clear story to tell.
+
+Organization is power. Chaos is the enemy. The state thrives on confusion; you fight back with clarity.
+
+Jess's System
+
+Let me tell you exactly how Jess organized our evidence, because this system saved us.
+
+Step 1: Create a master folder.
+
+Physical or digital, doesn't matter. Just one place where everything goes. We used a three-ring binder with dividers. Simple. Effective.
+
+You can buy a binder at any office supply store. Get one with at least two inches of capacity. You're going to need it.
+
+Step 2: Label everything immediately.
+
+Every time we received an audit, Jess labeled it: "Audit #1 - Received [date] - From Kimberly Spears." Every email got printed and dated. Every document got a label.
+
+Why? Because three months later, when you're trying to remember which audit had the 1992 date, you don't want to re-read five documents. You want to flip to "Audit #1" and find it instantly.
+
+Use a label maker if you have one. Or just write on the document with a pen. The point is to make it easy to identify later.
+
+Step 3: Create a comparison chart.
+
+Jess made a simple table:
+
+| Audit # | Date Received | Start Date | Total Arrears | Source |
+|---------|---------------|------------|---------------|--------|
+| 1 | [date] | 1992 | $30,000 | Kimberly Spears |
+| 2 | [date] | 1995 | $28,000 | Kimberly Spears |
+| 3 | [date] | 2005 | $32,000 | Kimberly Spears |
+| 4 | [date] | 2006 | $30,231 | Kimberly Spears |
+| 5 | [date] | 2006 | $30,231.90 | April Tate |
+
+One page. Five rows. Undeniable proof that the state's records were contradictory.
+
+You don't need fancy software to make a comparison chart. Microsoft Word has a table function. Google Docs has a table function. Even a handwritten chart works, as long as it's neat and clear.
+
+The point is to put the contradictions side by side so the judge can see them at a glance.
+
+Step 4: Build a timeline.
+
+Chronological order. Every significant event:
+
+• July 5, 2005: Court order entered ($400/month)
+• August 22, 2006: Charlotte's first affidavit ($5,600 claimed)
+• November 5, 2006: DCFS became payee
+• December 27, 2007: Charlotte closed case
+• 2010 (approx): Dismissal of $10,150 (Charlotte consented)
+• December 20, 2012: Charlotte reapplied for CSE
+• March 5, 2013: Charlotte's second affidavit ($32,000 claimed)
+• May 14, 2013: Hearing before M.F. Rauls
+• May 20, 2013: Judge signed order ($32,674 adjudicated)
+• November 2024: Received April Tate's email (admits no records 2008-2013)
+• November 2024: Received five contradictory audits
+
+The timeline shows the story. It shows the dismissal. It shows Charlotte's changing claims. It shows the fraud.
+
+Timelines are powerful because they're visual. They show cause and effect. They show patterns. They show impossibilities.
+
+Step 5: Highlight contradictions.
+
+Jess used a highlighter on the actual documents. Yellow for dates. Pink for amounts. Green for impossible claims.
+
+When we presented the evidence, the judge could see at a glance what was wrong. The highlighting did the work for us.
+
+Don't be afraid to mark up your documents. These are copies, not originals. (Always keep the originals safe and unmarked.) Highlighting makes contradictions obvious.
+
+---
+
+Creating Your Evidence Binder
+
+Your binder is your weapon. It should include:
+
+Tab 1: Audits — every version, side by side.
+
+Include all the audits you received, in chronological order. Label each one clearly. Include your comparison chart at the front of this section.
+
+Tab 2: Emails — correspondence showing contradictions.
+
+Print every email related to your case. Highlight the key statements. If an official contradicts themselves across multiple emails, put those emails next to each other.
+
+Tab 3: Affidavits — sworn statements with inconsistencies.
+
+Include all affidavits filed in your case. If there are multiple affidavits from the same person with different amounts, highlight the differences. Include a comparison chart.
+
+Tab 4: Timeline — a chronological record of events, filings, and contradictions.
+
+Your timeline goes here. Make it visual. Make it clear. Make it impossible to ignore.
+
+Tab 5: Laws & Precedents — statutes and case law that prove fraud and res judicata.
+
+Print out the relevant statutes. In my case, that included:
+• Louisiana Code of Civil Procedure Article 2004 (grounds to vacate judgment)
+• Louisiana Revised Statute 14:123 (perjury)
+• Cases discussing res judicata in Louisiana
+
+You don't need to print entire case opinions. Just the relevant sections. Highlight the key language.
+
+Tab 6: Payment Records — proof of payments you made.
+
+If you made payments, prove it. Bank statements, pay stubs, receipts. If they claim you didn't pay, this is your defense.
+
+Tab 7: Dismissal Documents — proof of dismissed arrears (if you have it).
+
+If you have documentation that arrears were dismissed, this goes here. In my case, I lost the dismissal document, but I explained that in my affidavit and requested the court obtain it from the Clerk's records.
+
+---
+
+Digital vs. Physical
+
+Should you keep digital copies or physical copies? Both.
+
+Digital copies:
+• Easy to search
+• Easy to share with the court (if they accept electronic filing)
+• Easy to back up
+• Can't be destroyed in a fire or flood
+• Can be organized in folders on your computer
+
+Physical copies:
+• Easy to present in court
+• Easy to flip through during hearings
+• Judges are used to paper
+• You can highlight and annotate
+• You can hand them directly to the judge
+
+My advice: Keep digital copies of everything in a cloud storage folder (Google Drive, Dropbox, whatever). But also print the key documents and organize them in a physical binder for court.
+
+The binder is what you bring to the hearing. The digital folder is your backup and your research tool.
+
+Name your digital files clearly: "Audit_1_1992_StartDate.pdf" or "Charlotte_Affidavit_2006_$5600.pdf" so you can find them quickly.
+
+Back up your digital files. Email them to yourself. Save them to multiple cloud services. You don't want to lose this evidence because your computer crashed.
+
+---
+
+Organization
+
+When you walk into court, you don't want to shuffle papers nervously while the judge stares at you. You want to open your binder, flip to the right tab, and present your evidence with confidence. That's how you turn documentation into persuasion.
+
+Practice using your binder. Before the hearing, sit down and practice finding each piece of evidence. "Where's Audit #1? Tab 1, first document. Where's Charlotte's 2006 affidavit? Tab 3, first document. Where's the timeline? Tab 4."
+
+The more familiar you are with your binder, the more confident you'll be in court.
+
+Confidence matters. When you present evidence smoothly, without fumbling, the judge takes you seriously. When you're organized, you look credible. When you're prepared, you look like you know what you're doing.
+
+Even if you're terrified inside, your binder makes you look professional.
+
+---
+
+The Night Before
+
+The night before your hearing, do this:
+
+1. Review your binder. Make sure every tab is in order. Make sure you know where everything is. Practice flipping to each section.
+
+Don't reorganize everything at the last minute. Don't add new documents you just found. The night before is for review, not revision.
+
+2. Prepare your opening statement. Write down the three most important points you want to make. Keep it to one page. Memorize it if you can.
+
+For example:
+• "Your Honor, I'm here to vacate a judgment based on fraud."
+• "The State has sent me five different audits, all with different numbers. I have them all here."
+• "The obligee swore under oath to $5,600 in 2006 and $32,000 in 2013. One of these statements is perjury."
+
+Short. Clear. Powerful.
+
+3. Anticipate their arguments. What will the state say? How will you respond? Have your evidence ready.
+
+They might say: "The most recent audit is correct."
+You respond: "Then why did they send me four others? Which one should I have believed?"
+
+They might say: "The affidavit is sufficient evidence."
+You respond: "Hearsay without corroboration is not sufficient when it contradicts a prior sworn statement by 471%."
+
+Think through their likely arguments and prepare your responses.
+
+4. Get sleep. I know it's hard. I know you'll be anxious. But you need to be sharp. Set an alarm. Go to bed early. Trust your preparation.
+
+You've done the work. You've organized the evidence. You've built the case. Now you need to be rested enough to present it clearly.
+
+Don't stay up all night worrying. That won't help. Trust your binder. Trust your preparation.
+
+5. Bring extras. Extra copies of your motion. Extra copies of your key exhibits. Extra pens. You don't want to be scrambling because you forgot something.
+
+Bring at least three copies of your motion: one for you, one for the judge, one for the state's attorney.
+
+Bring extra copies of your most important exhibits: the comparison charts, the timeline, the contradictory audits.
+
+Bring a notepad and multiple pens. You'll want to take notes during the hearing.
+
+Bring water. You'll be talking. Your mouth will get dry.
+
+Bring your phone (on silent) in case you need to reference something digital.
+
+The night before is not the time to create new arguments or reorganize everything. The night before is for review, preparation, and rest.
+
+Trust the work you've already done. Trust your documentation. Trust your evidence.
+
+You're ready.
+
+===================================================================
+
+END OF CHAPTERS 14 AND 15 (ENHANCED VERSION)
+
+These chapters now include:
+✅ Expanded "How to Spot Contradictions" section
+✅ New "Impossibility Test" section with 5-point checklist
+✅ Expanded "Documentation Gaps" section
+✅ New "What to Do When You Find Fraud" section
+✅ Detailed "Jess's System" with step-by-step instructions
+✅ New "Digital vs. Physical" section
+✅ New "The Night Before" section with 5-point checklist
+✅ More specific, actionable advice throughout
+✅ Maintained authentic voice and personal examples
+✅ Added practical tips and real-world guidance
+
+Ready to use in the book!

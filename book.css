@@ -1,0 +1,393 @@
+/* Book Page Specific Styles */
+
+.book-nav {
+    background: var(--bg-darker);
+    padding: 20px 30px;
+    border-bottom: 2px solid var(--primary-orange);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.book-nav h1 {
+    font-family: 'Orbitron', monospace;
+    color: var(--primary-orange);
+    font-size: 1.5em;
+    text-shadow: 0 0 10px rgba(255, 69, 0, 0.5);
+    flex: 1;
+    text-align: center;
+}
+
+.back-btn {
+    color: var(--secondary-orange);
+    text-decoration: none;
+    font-family: 'Orbitron', monospace;
+    padding: 10px 20px;
+    border: 2px solid var(--primary-orange);
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+.back-btn:hover {
+    background: rgba(255, 69, 0, 0.2);
+    box-shadow: 0 0 15px rgba(255, 69, 0, 0.5);
+    transform: translateX(-5px);
+}
+
+.book-content {
+    padding: 40px 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.book-section {
+    margin-bottom: 80px;
+    padding: 40px;
+    background: rgba(255, 69, 0, 0.03);
+    border: 2px solid var(--primary-orange);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 69, 0, 0.1);
+}
+
+.book-section h2 {
+    font-family: 'Orbitron', monospace;
+    color: var(--primary-orange);
+    font-size: 2em;
+    margin-bottom: 30px;
+    border-bottom: 3px solid var(--secondary-orange);
+    padding-bottom: 15px;
+    text-shadow: 0 0 10px rgba(255, 69, 0, 0.3);
+}
+
+.chapter-content {
+    line-height: 1.9;
+    color: var(--text-dim);
+    font-size: 1.1em;
+}
+
+.chapter-content p {
+    margin-bottom: 20px;
+}
+
+.chapter-content h3 {
+    color: var(--secondary-orange);
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-family: 'Orbitron', monospace;
+    font-size: 1.4em;
+    border-left: 4px solid var(--primary-orange);
+    padding-left: 15px;
+}
+
+.chapter-content h4 {
+    color: var(--text-primary);
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-family: 'Orbitron', monospace;
+    font-size: 1.1em;
+}
+
+.chapter-content ul,
+.chapter-content ol {
+    margin: 20px 0;
+    padding-left: 40px;
+}
+
+.chapter-content li {
+    margin: 10px 0;
+    line-height: 1.8;
+}
+
+.chapter-content strong {
+    color: var(--primary-orange);
+    font-weight: 700;
+}
+
+.chapter-content em {
+    color: var(--secondary-orange);
+    font-style: italic;
+}
+
+.chapter-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-top: 30px;
+    border-top: 2px solid var(--terminal-border);
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.nav-btn {
+    color: var(--text-primary);
+    background: linear-gradient(45deg, var(--primary-orange), var(--secondary-orange));
+    text-decoration: none;
+    font-family: 'Orbitron', monospace;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);
+}
+
+.nav-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 25px rgba(255, 69, 0, 0.5);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+/* Table of Contents */
+.toc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.toc-part {
+    background: rgba(255, 69, 0, 0.08);
+    padding: 25px;
+    border-radius: 8px;
+    border: 2px solid var(--primary-orange);
+    transition: all 0.3s ease;
+}
+
+.toc-part:hover {
+    background: rgba(255, 69, 0, 0.15);
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(255, 69, 0, 0.3);
+}
+
+.toc-part h3 {
+    color: var(--secondary-orange);
+    margin-bottom: 20px;
+    font-family: 'Orbitron', monospace;
+    font-size: 1.2em;
+    border-bottom: 2px solid var(--primary-orange);
+    padding-bottom: 10px;
+}
+
+.toc-part ul {
+    list-style: none;
+    padding: 0;
+}
+
+.toc-part li {
+    margin: 12px 0;
+}
+
+.toc-part a {
+    color: var(--text-dim);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: block;
+    padding: 8px 10px;
+    border-radius: 3px;
+}
+
+.toc-part a:hover {
+    color: var(--primary-orange);
+    background: rgba(255, 69, 0, 0.1);
+    padding-left: 20px;
+    text-shadow: 0 0 5px rgba(255, 69, 0, 0.5);
+}
+
+/* Title Page Styles */
+.title-display {
+    text-align: center;
+    padding: 60px 20px;
+    background: rgba(255, 69, 0, 0.05);
+    border: 3px solid var(--primary-orange);
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.book-title {
+    font-family: 'Orbitron', monospace;
+    font-size: 3.5em;
+    font-weight: 900;
+    color: var(--primary-orange);
+    text-shadow: 0 0 30px rgba(255, 69, 0, 0.8);
+    margin-bottom: 20px;
+    animation: glitch 3s infinite;
+}
+
+.book-subtitle {
+    font-family: 'Orbitron', monospace;
+    font-size: 1.8em;
+    color: var(--secondary-orange);
+    margin-bottom: 15px;
+}
+
+.book-tagline {
+    font-size: 1.1em;
+    color: var(--text-dim);
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.book-author {
+    font-family: 'Orbitron', monospace;
+    font-size: 1.3em;
+    color: var(--text-primary);
+    margin-top: 30px;
+    font-weight: 700;
+}
+
+.book-team {
+    font-family: 'Orbitron', monospace;
+    font-size: 1em;
+    color: var(--secondary-orange);
+    margin-top: 10px;
+}
+
+.credits-section {
+    background: rgba(255, 69, 0, 0.05);
+    padding: 30px;
+    border-radius: 8px;
+    border-left: 4px solid var(--primary-orange);
+}
+
+.credits-section h3 {
+    font-family: 'Orbitron', monospace;
+    color: var(--primary-orange);
+    font-size: 1.5em;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.credits-section p {
+    margin-bottom: 20px;
+    line-height: 1.8;
+}
+
+.credits-section strong {
+    color: var(--secondary-orange);
+    font-size: 1.1em;
+}
+
+/* Book Notice */
+.book-notice {
+    background: rgba(255, 69, 0, 0.1);
+    border: 2px solid var(--secondary-orange);
+    border-radius: 8px;
+    padding: 25px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.book-notice p {
+    margin: 10px 0;
+    font-size: 1.1em;
+    color: var(--text-primary);
+}
+
+.book-notice .matrix-btn {
+    margin-top: 15px;
+}
+
+/* Pro Notice */
+.pro-notice {
+    background: rgba(255, 69, 0, 0.15);
+    border: 2px solid var(--primary-orange);
+    border-radius: 5px;
+    padding: 15px;
+    margin: 20px 0;
+    text-align: center;
+    color: var(--secondary-orange);
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+/* Placeholder Text */
+.placeholder-text {
+    background: rgba(255, 69, 0, 0.1);
+    border-left: 4px solid var(--secondary-orange);
+    padding: 20px;
+    margin: 20px 0;
+    font-style: italic;
+    color: var(--text-dim);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .book-nav {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .book-nav h1 {
+        font-size: 1.2em;
+    }
+    
+    .book-content {
+        padding: 20px 15px;
+    }
+    
+    .book-section {
+        padding: 25px 20px;
+        margin-bottom: 40px;
+    }
+    
+    .book-section h2 {
+        font-size: 1.5em;
+    }
+    
+    .chapter-content {
+        font-size: 1em;
+    }
+    
+    .toc-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .chapter-nav {
+        flex-direction: column;
+    }
+    
+    .nav-btn {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .book-title {
+        font-size: 2em;
+    }
+    
+    .book-subtitle {
+        font-size: 1.3em;
+    }
+    
+    .title-display {
+        padding: 40px 15px;
+    }
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Section Fade In Animation */
+@keyframes fadeInSection {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.book-section {
+    animation: fadeInSection 0.6s ease;
+}
