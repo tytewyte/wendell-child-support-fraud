@@ -3,174 +3,251 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wendell's Legal Resource Matrix - Child Support & Court Fraud Defense</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <title>VelocityLeads - Empowering Fathers Fighting Child Support Fraud</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Courier New', monospace;
+            background: linear-gradient(135deg, #000000 0%, #0a0a0a 50%, #000000 100%);
+            color: #00ff00;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        /* Matrix rain effect background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                repeating-linear-gradient(
+                    0deg,
+                    transparent,
+                    transparent 2px,
+                    rgba(0, 255, 0, 0.03) 2px,
+                    rgba(0, 255, 0, 0.03) 4px
+                );
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .container {
+            max-width: 900px;
+            padding: 40px 20px;
+            text-align: center;
+            position: relative;
+            z-index: 2;
+            animation: fadeIn 2s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 20px;
+            text-shadow: 
+                0 0 10px #00ff00,
+                0 0 20px #00ff00,
+                0 0 30px #00ff00;
+            letter-spacing: 3px;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes glow {
+            from { text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00; }
+            to { text-shadow: 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00; }
+        }
+
+        .tagline {
+            font-size: 1.8em;
+            margin-bottom: 30px;
+            color: #00cc00;
+            font-weight: bold;
+        }
+
+        .status {
+            font-size: 2em;
+            margin: 40px 0;
+            padding: 20px;
+            border: 2px solid #00ff00;
+            display: inline-block;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        .description {
+            font-size: 1.3em;
+            line-height: 1.8;
+            margin-bottom: 30px;
+            color: #00dd00;
+        }
+
+        .features {
+            text-align: left;
+            display: inline-block;
+            margin: 30px 0;
+        }
+
+        .features li {
+            font-size: 1.2em;
+            margin: 15px 0;
+            padding-left: 30px;
+            position: relative;
+        }
+
+        .features li::before {
+            content: '⚔️';
+            position: absolute;
+            left: 0;
+        }
+
+        .mission {
+            font-size: 1.5em;
+            margin-top: 40px;
+            padding: 30px;
+            border-top: 2px solid #00ff00;
+            border-bottom: 2px solid #00ff00;
+            color: #00ff00;
+            font-weight: bold;
+        }
+
+        .footer {
+            margin-top: 50px;
+            font-size: 1em;
+            color: #008800;
+        }
+
+        .blink {
+            animation: blink 1.5s step-start infinite;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2em; }
+            .tagline { font-size: 1.2em; }
+            .status { font-size: 1.5em; }
+            .description { font-size: 1em; }
+            .features li { font-size: 1em; }
+            .mission { font-size: 1.2em; }
+        }
+    </style>
 </head>
 <body>
-    <canvas id="matrix-rain"></canvas>
-    
-    <div class="terminal-container">
-        <div class="terminal-header">
-            <div class="terminal-buttons">
-                <span class="btn red"></span>
-                <span class="btn yellow"></span>
-                <span class="btn green"></span>
-            </div>
-            <div class="terminal-title">root@wendell-legal:~$</div>
+    <div class="container">
+        <h1>VELOCITYLEADS.ONLINE</h1>
+        
+        <p class="tagline">The #1 Platform for Fathers Fighting Child Support Fraud & Surveillance</p>
+        
+        <div class="status">
+            [ LIVE & EXPOSING TRUTH<span class="blink">_</span> ]
         </div>
         
-        <nav class="terminal-nav">
-            <ul>
-                <li><a href="#home" class="nav-link active">HOME</a></li>
-                <li><a href="book.html" class="nav-link">READ BOOK</a></li>
-                <li><a href="#documents" class="nav-link">DOCUMENTS</a></li>
-                <li><a href="#membership" class="nav-link">MEMBERSHIP</a></li>
-                <li><a href="#contact" class="nav-link">CONTACT</a></li>
-            </ul>
-        </nav>
-        <main class="terminal-content">
-            <section id="home" class="section active">
-                <div class="glitch-text">
-                    <h1 class="main-title">WENDELL'S LEGAL MATRIX</h1>
-                </div>
-                <div class="typing-text">
-                    <p>Fighting Child Support Injustice & Court Fraud Since [Year]</p>
-                </div>
-                <div class="mission-box">
-                    <h2 class="section-title">// MISSION_BRIEFING</h2>
-                    <p class="terminal-text">
-                        I'm not a lawyer. I'm a father who fought the system and won. 
-                        This site contains my personal research, experiences, and document templates 
-                        that helped me navigate child support cases and expose court fraud.
-                    </p>
-                    <div class="warning-box">
-                        <p class="warning-text">⚠ LEGAL DISCLAIMER: This is not legal advice. These are my personal opinions and research. Consult a licensed attorney for legal matters.</p>
-                    </div>
-                </div>
-            </section>
-
-            <section id="testimony" class="section">
-                <h2 class="section-title">// PERSONAL_TESTIMONY</h2>
-                <div class="testimony-content">
-                    <div class="chapter-preview">
-                        <h3>25-Chapter Book: My Fight Against Child Support Injustice</h3>
-                        <p>Coming soon: The complete story of how I fought back against a broken system and helped others do the same.</p>
-                        <div class="chapter-list">
-                            <div class="chapter-item">Chapter 1: The System That Failed</div>
-                            <div class="chapter-item">Chapter 2: Understanding Child Support Laws</div>
-                            <div class="chapter-item">Chapter 3: First Court Appearance</div>
-                            <div class="chapter-item">Chapter 4: Document Everything</div>
-                            <div class="chapter-item">Chapter 5: Fighting Fraud on the Court</div>
-                            <!-- More chapters will be added -->
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section id="documents" class="section">
-                <h2 class="section-title">// LEGAL_DOCUMENTS</h2>
-                <div class="documents-grid">
-                    <div class="doc-category">
-                        <h3>Child Support Motions</h3>
-                        <ul class="doc-list">
-                            <li class="locked-doc">
-                                <span class="doc-name">Motion to Modify Child Support</span>
-                                <span class="lock-icon">🔒</span>
-                            </li>
-                            <li class="locked-doc">
-                                <span class="doc-name">Motion for Contempt Dismissal</span>
-                                <span class="lock-icon">🔒</span>
-                            </li>
-                            <li class="locked-doc">
-                                <span class="doc-name">Income Verification Request</span>
-                                <span class="lock-icon">🔒</span>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="doc-category">
-                        <h3>Fraud on the Court</h3>
-                        <ul class="doc-list">
-                            <li class="locked-doc">
-                                <span class="doc-name">Fraud on the Court Complaint</span>
-                                <span class="lock-icon">🔒</span>
-                            </li>
-                            <li class="locked-doc">
-                                <span class="doc-name">Judicial Misconduct Report</span>
-                                <span class="lock-icon">🔒</span>
-                            </li>
-                            <li class="locked-doc">
-                                <span class="doc-name">Evidence of Fraud Motion</span>
-                                <span class="lock-icon">🔒</span>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="upgrade-prompt">
-                    <p>🔒 Premium members get access to all document templates</p>
-                    <button class="matrix-btn" onclick="showMembership()">Unlock Documents</button>
-                </div>
-            </section>
-
-            <section id="membership" class="section">
-                <h2 class="section-title">// MEMBERSHIP_ACCESS</h2>
-                <div class="membership-tiers">
-                    <div class="tier basic">
-                        <h3>FREE ACCESS</h3>
-                        <div class="price">$0</div>
-                        <ul class="features">
-                            <li>✓ Read testimony</li>
-                            <li>✓ Basic legal information</li>
-                            <li>✓ Contact form access</li>
-                            <li>✗ Document downloads</li>
-                        </ul>
-                    </div>
-                    <div class="tier premium">
-                        <h3>PREMIUM MEMBER</h3>
-                        <div class="price">$3.99<span>/month</span></div>
-                        <ul class="features">
-                            <li>✓ All free features</li>
-                            <li>✓ All document templates</li>
-                            <li>✓ Downloadable PDFs</li>
-                            <li>✓ Priority contact</li>
-                            <li>✓ New content updates</li>
-                        </ul>
-                        <div id="paypal-button-container"></div>
-                    </div>
-                </div>
-            </section>
-
-            <section id="contact" class="section">
-                <h2 class="section-title">// CONTACT_MATRIX</h2>
-                <div class="contact-form">
-                    <form id="contactForm">
-                        <div class="form-group">
-                            <label for="name">NAME:</label>
-                            <input type="text" id="name" name="name" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="email">EMAIL:</label>
-                            <input type="email" id="email" name="email" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="message">MESSAGE:</label>
-                            <textarea id="message" name="message" rows="5" required></textarea>
-                        </div>
-                        <button type="submit" class="matrix-btn">SEND_MESSAGE</button>
-                    </form>
-                </div>
-            </section>
-        </main>
-
-        <div class="terminal-footer">
-            <div class="status-line">
-                <span id="status">SYSTEM_READY</span>
-                <span id="member-status">VISITOR_MODE</span>
+        <div class="alert-section" style="background: rgba(255, 0, 0, 0.1); border: 2px solid #ff0000; padding: 20px; margin: 30px 0; border-radius: 10px;">
+            <h2 style="color: #ff0000; font-size: 1.5em; margin-bottom: 15px;">🚨 URGENT: VOICE SURVEILLANCE PATENTS EXPOSED 🚨</h2>
+            
+            <div class="patent-section" style="text-align: left; margin: 20px 0;">
+                <h3 style="color: #ff6666; font-size: 1.3em; margin-bottom: 10px;">🎯 AMAZON PATENT 9,847,081 (2018)</h3>
+                <p style="color: #ffaaaa; font-size: 1.1em; line-height: 1.6;">
+                    Voice sniffing algorithm designed to detect keywords in ambient conversation (like using Alexa). 
+                    This technology creates psychological blueprints designed to follow you indefinitely.
+                </p>
+                
+                <h3 style="color: #ff6666; font-size: 1.3em; margin-bottom: 10px; margin-top: 20px;">🎯 FACEBOOK PATENT 9,351,027 (2016)</h3>
+                <p style="color: #ffaaaa; font-size: 1.1em; line-height: 1.6;">
+                    Technology that activates and records when certain words are said. Your conversations 
+                    are being monitored and profiled without consent.
+                </p>
+                
+                <h3 style="color: #ff6666; font-size: 1.3em; margin-bottom: 10px; margin-top: 20px;">🎯 GOOGLE PATENT 8,655,307 (2014)</h3>
+                <p style="color: #ffaaaa; font-size: 1.1em; line-height: 1.6;">
+                    Same invasive surveillance technology - coordinated effort by tech giants to monitor 
+                    every aspect of your life and conversations.
+                </p>
+            </div>
+            
+            <div class="timeline-section" style="background: rgba(255, 255, 0, 0.1); border: 2px solid #ffff00; padding: 15px; margin: 20px 0; border-radius: 8px;">
+                <h3 style="color: #ffff00; font-size: 1.3em; margin-bottom: 10px;">⏰ 2026-2027: VOICE DATA ENTERS LEGAL WORLD</h3>
+                <p style="color: #ffffcc; font-size: 1.1em; line-height: 1.6;">
+                    <strong>Divorce lawyers</strong> will request recordings as evidence<br>
+                    <strong>Employers</strong> will receive voice analysis for performance/misconduct<br>
+                    <strong>Courts</strong> will use voice data against fathers<br>
+                    <strong>Your words</strong> will become weapons against you
+                </p>
             </div>
         </div>
+        
+        <p class="description">
+            <strong>YOUR PHONE IS NOT LISTENING TO SELL YOU PRODUCTS.</strong><br>
+            It's making a <strong>PSYCHOLOGICAL BLUEPRINT</strong> of you designed to <strong>FOLLOW YOU INDEFINITELY.</strong><br><br>
+            
+            <strong>VelocityLeads</strong> exposes the surveillance, provides legal countermeasures, 
+            and equips fathers to fight back against systemic fraud and monitoring.
+        </p>
+        
+        <ul class="features">
+            <li>🛡️ SURVEILLANCE COUNTERMEASURES - Protect your voice and privacy</li>
+            <li>⚖️ LEGAL DEFENSE STRATEGIES - Fight voice evidence in court</li>
+            <li>🔍 PATENT EXPOSURE - Truth about tech giant surveillance</li>
+            <li>📚 COMPLETE LEGAL ARSENAL - Rodriguez framework, Title IV-D exposure</li>
+            <li>🤖 AI LEGAL AGENT - 24/7 intelligent case assistance</li>
+            <li>👥 COMMUNITY SUPPORT - Fathers united against surveillance</li>
+            <li>📖 EXCLUSIVE BOOK - "The System Is The Fraud" - Coming Soon</li>
+        </ul>
+        
+        <div class="book-section" style="background: rgba(0, 255, 255, 0.1); border: 2px solid #00ffff; padding: 20px; margin: 30px 0; border-radius: 10px;">
+            <h3 style="color: #00ffff; font-size: 1.4em; margin-bottom: 15px;">📖 THE BOOK THAT EXPOSES EVERYTHING</h3>
+            <p style="color: #00cccc; font-size: 1.1em; line-height: 1.6; margin-bottom: 20px;">
+                "The System Is The Fraud" - Wendell's complete story of exposing child support fraud, 
+                surveillance patents, and the legal framework to fight back.
+            </p>
+            <button onclick="alert('Book coming soon! Sign up for updates below.')" style="background: #00ffff; color: #000; border: none; padding: 15px 30px; font-size: 1.2em; font-weight: bold; border-radius: 5px; cursor: pointer; transition: all 0.3s;">
+                GET NOTIFIED WHEN BOOK LAUNCHES
+            </button>
+        </div>
+        
+        <div class="mission">
+            THIS IS NOT JUST A PLATFORM<br>
+            THIS IS A SURVEILLANCE EXPOSÉ<br>
+            THIS IS A LEGAL REVOLUTION<br>
+            THIS IS DIGITAL WARFARE<br>
+            THIS IS JUSTICE
+        </div>
+        
+        <p class="description" style="margin-top: 40px;">
+            Every father who finds this platform gets <strong>TRUTH</strong>, <strong>PROTECTION</strong>, 
+            <strong>STRATEGIES</strong>, and <strong>FREEDOM</strong> from surveillance and fraud.
+        </p>
+        
+        <div class="footer">
+            <p>⚔️ JUSTICE IS COMING ⚔️</p>
+            <p style="margin-top: 20px;">Built by fathers, for fathers</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">
+                "The battle is not yours, but God's" - 2 Chronicles 20:15
+            </p>
+        </div>
     </div>
-
-    <script src="https://www.paypal.com/sdk/js?client-id=YOUR_PAYPAL_CLIENT_ID&vault=true&intent=subscription"></script>
-    <script src="script.js"></script>
 </body>
 </html>
