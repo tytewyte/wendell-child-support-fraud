@@ -16,12 +16,10 @@
             background: linear-gradient(135deg, #000000 0%, #0a0a0a 50%, #000000 100%);
             color: #00ff00;
             min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
             overflow-x: hidden;
             position: relative;
+            padding: 0;
+            margin: 0;
         }
 
         /* Matrix rain effect background */
@@ -46,11 +44,18 @@
 
         .container {
             max-width: 900px;
-            padding: 40px 20px;
+            padding: 40px 20px 80px 20px;
             text-align: center;
             position: relative;
             z-index: 2;
             animation: fadeIn 2s ease-in;
+            margin: 0 auto;
+        }
+        
+        .section {
+            padding: 60px 20px;
+            margin: 20px 0;
+            scroll-margin-top: 80px;
         }
 
         @keyframes fadeIn {
@@ -184,6 +189,8 @@
 
     <!-- Main Content -->
     <div class="container" style="margin-top: 100px;">
+        <!-- HOME SECTION -->
+        <section id="home" class="section">
         <h1>VELOCITYLEADS.ONLINE</h1>
         
         <p class="tagline">The #1 Platform for Fathers Fighting Child Support Fraud & Surveillance</p>
@@ -243,7 +250,10 @@
             <li>👥 COMMUNITY SUPPORT - Fathers united against surveillance</li>
             <li>📖 EXCLUSIVE BOOK - "The System Is The Fraud" - Coming Soon</li>
         </ul>
+        </section>
         
+        <!-- BOOK SECTION -->
+        <section id="book" class="section">
         <div class="book-section" style="background: rgba(0, 255, 255, 0.1); border: 2px solid #00ffff; padding: 20px; margin: 30px 0; border-radius: 10px;">
             <h3 style="color: #00ffff; font-size: 1.4em; margin-bottom: 15px;">📖 THE BOOK THAT EXPOSES EVERYTHING</h3>
             <p style="color: #00cccc; font-size: 1.1em; line-height: 1.6; margin-bottom: 20px;">
@@ -254,6 +264,34 @@
                 GET NOTIFIED WHEN BOOK LAUNCHES
             </button>
         </div>
+        </section>
+        
+        <!-- DOCUMENTS SECTION -->
+        <section id="documents" class="section">
+        <h2 style="color: #00ff00; font-size: 2em; margin-bottom: 20px;">📚 LEGAL DOCUMENTS & RESOURCES</h2>
+        <p class="description">
+            Complete legal arsenal coming soon: Rodriguez framework, Title IV-D exposure documents, 
+            motion templates, and proven strategies from real cases.
+        </p>
+        </section>
+        
+        <!-- MEMBERSHIP SECTION -->
+        <section id="membership" class="section">
+        <h2 style="color: #00ff00; font-size: 2em; margin-bottom: 20px;">👥 MEMBERSHIP & COMMUNITY</h2>
+        <p class="description">
+            Join the movement: Connect with fathers fighting back, access exclusive content, 
+            and get 24/7 AI legal assistance. Membership launching soon.
+        </p>
+        </section>
+        
+        <!-- CONTACT SECTION -->
+        <section id="contact" class="section">
+        <h2 style="color: #00ff00; font-size: 2em; margin-bottom: 20px;">📧 CONTACT US</h2>
+        <p class="description">
+            Email: support@velocityleads.online<br>
+            We're here to help fathers fight back against systemic fraud.
+        </p>
+        </section>
         
         <div class="mission">
             THIS IS NOT JUST A PLATFORM<br>
